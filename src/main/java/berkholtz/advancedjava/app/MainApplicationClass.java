@@ -1,4 +1,4 @@
-package me.salisuwy;
+package berkholtz.advancedjava.app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
